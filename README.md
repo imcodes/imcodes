@@ -1,5 +1,5 @@
 <!-- ![profile](https://someimgs.s3.af-south-1.amazonaws.com/18143.jpg) -->
-<p align="center"><img src="https://someimgs.s3.af-south-1.amazonaws.com/18143.jpg" width="90%" ></p>
+<p align="center"><img src="https://someimgs.s3.af-south-1.amazonaws.com/18143.jpg" width="95%" ></p>
 
 <!--
 **imcodes/imcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hi there, fellow code enthusiasts! I'm Michael</h1>
 
-<p align="center">I'm a versatile Full Stack Software Developer who loves to bring web projects to life using the power of Next.js, PHP (Laravel/Symfony), MySQL, CSS3, etc. From crafting seamless user experiences to taming complex database systems, I am also fond of utilizing Python's power for web scraping and automation, turning mundane tasks into efficient automated processes. I thrive on turning ideas into elegant and functional code. When I'm not immersed in the world of programming, you can catch me exploring new technologies, honing my skills or sharing my tech knowledge through witty blog posts and video tutorials, and occasionally indulging in a well-deserved cup of tea ☕. 
-</p>
-<p align="center">Let's team up to automate, scrape, and code our way to success!  🚀✨</p>
+<p align="center">I'm a versatile Full Stack Software Developer who loves to bring web projects to life using the power of Next.js, PHP (Laravel/Symfony), MySQL, CSS3, etc. From crafting seamless user experiences to taming complex database systems, I am also fond of utilizing Python's power for web scraping and automation, turning mundane tasks into efficient automated processes. I thrive on turning ideas into elegant and functional code. When I'm not immersed in the world of programming, you can catch me exploring new technologies, honing my skills or sharing my tech knowledge through witty blog posts and video tutorials, and occasionally indulging in a well-deserved cup of tea ☕. <b>Let's team up to automate, scrape, and code our way to success!</b>   🚀✨</p>
 
 ## More Facts About Me
 - 🔭 I’m currently working on all things Web Developement / Web Scrapping/ Data mining / Automation 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{imcodes}/count.svg) -->
 
-#### **Some blog posts**
+### **Some Blog Posts**
 
 - https://softgenetech.com/phising-attacks/
 
@@ -87,7 +85,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### Cloud/Web Hosting | Deployment
+#### Cloud/Web Hosting | Deployment
 <p>
 <img src="https://img.shields.io/badge/heroku-%23a95af8.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/cpanel-%23df6900.svg?&style=for-the-badge&logo=cpanel&logoColor=white"/>
@@ -116,7 +114,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/OBS-%23000000.svg?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
 </p>
 
+## Live Stats
+<!--Stats built with-> https://github.com/anuraghazra/github-readme-stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imcodes&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcodes&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/imcodes/github-readme-stats)
 
-
-Thanks for checking out my profile.
+Thanks for checking out my profile🤝
