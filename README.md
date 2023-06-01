@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/worthsalive1), [LinkedIn](https://www.linkedin.com/in/worthsalive/), [Youtube](https://www.youtube.com/@softgene) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPtfMUqrSBLkXMaDQFxVu_Q?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPtfMUqrSBLkXMaDQFxVu_Q?style=social)
 - ⚡ Fun fact: I'm a critical thinker, I love music, dancing and I service my Power Generator set by myself😂
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{imcodes}/count.svg) -->
 
 #### **Some blog posts**
 
