@@ -1,5 +1,5 @@
-![profile](https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/limitstodocsascode.svg)
-### Hi there 👋
+<!-- ![profile](https://someimgs.s3.af-south-1.amazonaws.com/18143.jpg) -->
+<p align="center"><img src="https://someimgs.s3.af-south-1.amazonaws.com/18143.jpg" width="90%" ></p>
 
 <!--
 **imcodes/imcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hello there, fellow code enthusiasts! I'm Michael</h1>
+<h1 align="center">👋 Hi there, fellow code enthusiasts! I'm Michael</h1>
 
 <p align="center">I'm a versatile Full Stack Software Developer who loves to bring web projects to life using the power of Next.js, PHP (Laravel/Symfony), MySQL, CSS3, etc. From crafting seamless user experiences to taming complex database systems, I am also fond of utilizing Python's power for web scraping and automation, turning mundane tasks into efficient automated processes. I thrive on turning ideas into elegant and functional code. When I'm not immersed in the world of programming, you can catch me exploring new technologies, honing my skills or sharing my tech knowledge through witty blog posts and video tutorials, and occasionally indulging in a well-deserved cup of tea ☕. 
 </p>
